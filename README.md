@@ -13,7 +13,9 @@ _🦌 网页小游戏 🥛_
 ## 简介
 
 小游戏：吃掉小孙哥（整活）
+
 源仓库：https://github.com/arcxingye/EatKano
+
 [作者b站](https://space.bilibili.com/237540358?from=search&seid=6530853340667795144&spm_id_from=333.337.0.0)
 |
 [线上版本](https://yukinahoshino.github.io/Eatsunge/)
