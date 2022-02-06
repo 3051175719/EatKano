@@ -441,11 +441,11 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return '试着好好练一下？';
-        if (cps <= 8) return 'TCL';
-        if (cps <= 10)  return 'TQL';
-        if (cps <= 15) return '您';
-        return '人？';
+        if (cps <= 5) return '欸，弱誒。拜托你很弱欸';
+        if (cps <= 8) return '这么说，你很勇喽';
+        if (cps <= 10)  return '玩累了就直接睡';
+        if (cps <= 15) return '我已经完全爱上孙哥啦';
+        return '登dua郎';
     }
 
     function toStr(obj) {
