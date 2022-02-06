@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉小孙哥（整活）
 
-[鹿乃b站](https://space.bilibili.com/316381099)
+[作者b站](https://space.bilibili.com/237540358?from=search&seid=6530853340667795144&spm_id_from=333.337.0.0)
 |
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
